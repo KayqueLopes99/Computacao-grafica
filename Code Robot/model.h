@@ -18,8 +18,8 @@
 
 #define WIDTH 1000
 #define HEIGHT 1000
-#define MAX_VERTICES 55500
-#define MAX_FACES 55500
+#define MAX_VERTICES 14000
+#define MAX_FACES 14000
 #define MAX_FACE_VERTS 32
 
 typedef struct {

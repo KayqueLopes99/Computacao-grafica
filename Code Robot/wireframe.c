@@ -13,7 +13,7 @@ int main()
     set_pixel(100, 100, 255, 0, 0); 
     clr();  
 
-    if (!load_obj("models/robot.obj", vertices, &vcount, faces, &fcount))
+    if (!load_obj("models/wolf.obj", vertices, &vcount, faces, &fcount))
     {
         printf("Erro ao carregar o OBJ\n");
         return 1;
